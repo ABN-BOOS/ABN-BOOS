@@ -7,6 +7,8 @@
 
 
 # Info about me
+<p align="left">
+<a href="#"><img title="ABN-BOOS" src="https://img.shields.io/badge/MADE%20IN-Alg�rie-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <a href="#"><img title="MadeinSyria🇸🇾" src="https://img.shields.io/badge/MADE%20IN-Syria-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="left">
 
