@@ -10,7 +10,6 @@
 
 # Info about me: 
 
-
 <p align="left">
 <a href="#"><img title="Made in Syria🇸🇾" src="https://img.shields.io/badge/MADE%20IN-Syria-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
