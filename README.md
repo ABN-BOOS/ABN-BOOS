@@ -14,8 +14,7 @@
 <p align="left">
 <a href="#"><img title="Made in Syrian programmers" src="https://img.shields.io/badge/MADE%20IN-Syrian programmers-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-GitHub Action to run a pytest command when new code is pushed into your repo 
-
 <p align="left">
+<a href="#"><img title="Open source" src="https://img.shields.io/badge/MADE%20IN-Open source-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-<a href="#"><img title="Open source"src="https://img.shields.io/badge/MADE%20IN-Syrian programmers-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
