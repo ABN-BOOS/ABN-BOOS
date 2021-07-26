@@ -9,7 +9,7 @@
 # Info about me
 <p align="left">
 <a href="#"><img title="ABN-BOOS" src="https://img.shields.io/badge/ABN-BOOS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-<a href="#"><img title="FROM-inSyria🇸🇾" src="https://img.shields.io/badge/FROM-IN-Syria-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="frominSyria🇸🇾" src="https://img.shields.io/badge/fromin-Syria-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="left">
 
 <a href="#"><img title=" Syrian programmers" src="https://img.shields.io/badge/Syrian programmers-%E2%9D%A4-green?style=for-the-badge"></a>
